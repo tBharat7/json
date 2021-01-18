@@ -1,4 +1,6 @@
-{
+
+"posts": [
+   {
     "id": 1,
     "name": "Lorem ipsum dolor sit amet",
     "username": "Bret",
@@ -6,4 +8,7 @@
         "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org"
   }
-
+  ],
+  "profile": {
+    "name": "typicode"
+  }
